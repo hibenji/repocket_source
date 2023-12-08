@@ -1,6 +1,6 @@
 {
   "name": "repocket-docker",
-  "version": "1.1.32",
+  "version": "1.1.33",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -31,7 +31,7 @@
     "webpack-node-externals": "^3.0.0"
   },
   "dependencies": {
-    "@geonode/repocket-peer-client": "^1.0.14",
+    "@geonode/repocket-peer-client": "^1.0.17",
     "minimist": "^1.2.8"
   }
 }
